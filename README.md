@@ -4,4 +4,7 @@ Based on <a href="https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/0321
 
 Algorithms:
 
-- [Euclid's algorithm for finding the greatest common divisor of 2 non-negative integers](https://github.com/dlcmh/java-algorithms/tree/euclid-greatest-common-divisor-of-two-non-negative-integers/euclid-greatest-common-divisor-of-two-non-negative-integers)
+- [Euclid's algorithm for finding the greatest common divisor of 2 non-negative integers](https://github.com/dlcmh/java-algorithms/tree/master/euclid-greatest-common-divisor-of-two-non-negative-integers)
+
+## Dynamic Connectivity problem
+- [Quick-Find solution](https://github.com/dlcmh/java-algorithms/tree/master/001-solve-dynamic-connectivity-problem-with-quick-find)
