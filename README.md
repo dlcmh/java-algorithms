@@ -8,3 +8,4 @@ Algorithms:
 
 ## Dynamic Connectivity problem
 - [Quick-Find solution](https://github.com/dlcmh/java-algorithms/tree/master/001-solve-dynamic-connectivity-problem-with-quick-find)
+- [Quick-Union solution](https://github.com/dlcmh/java-algorithms/tree/master/002-solve-dynamic-connectivity-problem-with-quick-union)
